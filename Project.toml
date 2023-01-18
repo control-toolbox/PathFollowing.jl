@@ -1,0 +1,4 @@
+name = "PathFollowing"
+uuid = "a5fbd3e6-a7c5-4efb-a1cb-e5ea7d274979"
+authors = ["Olivier Cots <olivier.cots@enseeiht.fr>"]
+version = "0.1.0"
